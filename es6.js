@@ -1,3 +1,4 @@
+import { promises } from "fs";
 
 //var  重复声明 不能限制修改 函数级
 
@@ -40,3 +41,19 @@ console.log(arr3)
 arr.forEach((item,index)=>{
     console.log(`第${index}个：${item}`)
 })
+
+
+
+//ES7,8,9
+
+
+//幂操作
+ console.log(3**5)
+
+ arr.includes('2')
+
+ //eS9
+
+ rest/spread
+
+// promises  all/race/finally
