@@ -60,3 +60,8 @@ function GetRequest() {
     }
     return -1
  }
+ //数组降维
+
+ function reduce(arr){
+     return Array.prototype.concat.apply([],arr);
+ }
