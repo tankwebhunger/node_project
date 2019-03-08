@@ -25,7 +25,7 @@ console.log(arr)
 
 //数组球平均数
 
-
+let arr1=[1,2,4];
 let arr3=arr1.reduce((first,scend,index)=>{
     if(index==arr1.length-1){
         return (first+scend)/arr1.length
@@ -34,7 +34,6 @@ let arr3=arr1.reduce((first,scend,index)=>{
     }
 
 })
-
 console.log(arr3)
 
 
