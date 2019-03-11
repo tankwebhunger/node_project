@@ -15,3 +15,14 @@
 //session 保存数据，保存在服务端 基于cookie来实现的 
 
 //cookie当中会有一个session_id 有session劫持危险
+
+
+//模版引擎
+
+//jade ejs
+
+//1jade  根据缩进规定层级  属性放在括号里面逗号分割
+
+
+
+
